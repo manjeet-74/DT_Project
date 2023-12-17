@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.blogs {
+    background: url("../public/assets/blogs.jpg") no-repeat center ;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.head {
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+.blogs{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.inputbox {
+    height: 16rem;
+    width: 12rem;
+}

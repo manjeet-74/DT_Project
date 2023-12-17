@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.mainTool {
+    background: url("../public/assets/tool2.jpg") no-repeat center;
+    height: 100vh;
+    background-size: cover;
+}
+
+.head {
+    color: white;
+    padding: 2rem;
+}
+
+.tools {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* height: 2rem; */
+    /* width: 60%; */
+}
+
+.tools a {
+    padding: 2rem;
+    background: #0000011e;
+    text-decoration: none;
+    color: wheat;
+
+}
+
+header {
+    text-align: center;
+}
