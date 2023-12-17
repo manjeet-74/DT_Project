@@ -8,24 +8,32 @@
     background-size: cover;
     width: 100vw;
     height: 100vh;
+    padding: 2rem;
 }
+
+
 
 .head {
     color: white;
-    padding: 2rem;
-    text-align: center;
+    padding-bottom: 2rem;
+    /* text-align: center; */
 }
 .blogs{
-    text-align: center;
+    /* text-align: center; */
 }
 
 a {
     text-decoration: none;
-    text-align: center;
-    color: antiquewhite;
+    margin-bottom: 2rem;
+    /* text-align: center; */
+    color: white;
 }
 
 .inputbox {
     height: 16rem;
     width: 12rem;
+}
+
+.submit {
+    font-size: larger;
 }

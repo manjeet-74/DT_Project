@@ -16,7 +16,7 @@
 
 .tools {
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     justify-content: center;
     align-items: center;
     /* height: 2rem; */
@@ -27,8 +27,10 @@
     padding: 2rem;
     background: #0000011e;
     text-decoration: none;
-    color: wheat;
-
+    color: lightblue;
+    padding: 4rem;
+    border: 2px solid lightblue;
+    height: 5px;
 }
 
 header {
